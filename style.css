@@ -1,0 +1,88 @@
+
+
+a {
+    font-size: 24px;
+    color: white;
+    font-family: arial;
+    text-decoration: none;
+    display: block;
+    padding: 18px 24px;
+    margin-right: 50px;
+
+}
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    margin: 0;
+    max-width: 100%;
+    background-color: rgba(170, 170, 170, 0.993);
+}
+#co a{
+    float: left;
+    font-size: 50px;
+}
+.right {
+    float: right;
+    margin-top: 10px;
+}
+    
+h2 {
+    font-family: impact;
+    font-size: 100px;
+    color: rgb(232, 223, 115);
+    background-color: black;
+    padding: 200px;
+    margin: 0;
+    text-align: center;
+    letter-spacing: 2px;
+}
+p {
+    font-family: arial;
+    font-size: 18px;
+}
+.greensquare {
+    background-color: rgb(184, 252, 218);	
+    height: 350px;
+    width: 350px;
+    display: inline-block;
+    border-radius: 10%;
+    margin-left: 100px;
+    margin-right: 50px;
+    margin-top: 5%;
+}
+
+.orangebox {
+    background-color: rgb(247, 196, 122);	
+    height: 350px;
+    width: 650px;
+    display: inline-block;
+    margin-top: 5%;
+    margin-left: 50px;
+   
+}
+#orange {
+    margin-left: 50px;
+}
+.elephant {
+    display: inline-block;
+    width: 550px;
+    height: 300px;
+    margin-top: 5%;
+    margin-right: 5%;
+    margin-left: 8%;
+    margin-bottm: -5%;
+}
+#words div {
+    margin-top: -100px;
+}
+
+img {
+    height: 250px;
+    width: 400px;
+}
+
+footer {
+    background-color: rgb(58, 59,	84);
+    padding: 100px;
+    margin-bottom: 0;
+}
